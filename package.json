@@ -1,0 +1,27 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "In which we attempt to develop a bot for Discord from scratch.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NodoY5/discord-bot"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NodoY5/discord-bot/issues"
+  },
+  "homepage": "https://github.com/NodoY5/discord-bot#readme",
+  "dependencies": {
+    "d20": "^1.4.0",
+    "discord.js": "^9.3.0",
+    "express": "^4.14.0",
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "twitter": "^1.4.0"
+  }
+}

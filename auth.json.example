@@ -1,0 +1,14 @@
+//this is an example of what an auth.json file should look like.
+//You have to make your auth.json file locally or things will break.
+//DO NOT UPLOAD YOUR auth.json FILE TO GITHUB. Bots steal yo info.
+
+{
+	"token": "<token for your discord app>",
+	"twitter": {
+		"consumer_key":"<your super secret info>",
+		"consumer_secret":"<your super secret info>",
+		"access_token_key":"<your super secret info>",
+		"access_token_secret":"<your super secret info>"
+	},
+	google_api_key: <API_KEY>
+}
