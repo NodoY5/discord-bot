@@ -14,7 +14,6 @@ A bot for the NodoY5' Discord Server written with [discord.js](https://www.npmjs
 ### Deployment
 To deploy the bot, clone this repo, navigate to it, run `npm install` to install all dependencies, and run `node bot.js`.
 
-![Bot](http://i68.tinypic.com/10hr2tk.png)
 ### Current Features
 - [x] Dice Rolling
 - [x] Twitter posting, searching, viewing trends
